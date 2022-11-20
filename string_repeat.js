@@ -13,4 +13,4 @@ function repeatStr (n, s) {
     return s.repeat(n);
 }
 
-Please add other ways of repeating strings :)
+//Please add other ways of repeating strings :)
